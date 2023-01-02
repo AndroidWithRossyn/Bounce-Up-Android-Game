@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BounceUp-main.iml" filepath="$PROJECT_DIR$/.idea/modules/BounceUp-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/aob_sessionreporting/BounceUp-main.aob_sessionreporting.iml" filepath="$PROJECT_DIR$/.idea/modules/aob_sessionreporting/BounceUp-main.aob_sessionreporting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BounceUp-main.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
